@@ -1,9 +1,17 @@
 
-.logo{
-    background-color: #EAC926;
-    text-align: center;
+.todo{
+    font-family: 'Roboto', sans-serif;
 }
 
+.imagen{
+    background-color: #EAC926;
+    width: 384px;
+    height: 112px;
+}
+.loguito{
+    background-color: #EAC926;
+    
+}
 .h1{
     font-size: 100px;
     color: #03264C;
